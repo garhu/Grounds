@@ -4,6 +4,8 @@
 
 Welcome to [Grounds](https://grounds-1a30.onrender.com), a full-stack web application that allows users to explore and review campgrounds, sharing their experiences and insights with the community.
 
+![](https://github.com/garhu/Grounds/blob/main/animation.gif)
+
 ## Features
 
 - **User Authentication:** Users can sign up, log in, and log out securely.
