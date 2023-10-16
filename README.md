@@ -19,6 +19,7 @@ Welcome to [Grounds](https://grounds-1a30.onrender.com), a full-stack web applic
 - **Database:** MongoDB
 - **Authentication:** Passport.js
 - **Templating Engine:** EJS (Embedded JavaScript)
+- **Services:** MongoDB Atlas, Cloudinary, Mapbox, Render
 
 ## Contribution
 
